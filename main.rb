@@ -1,5 +1,6 @@
 require_relative 'classes'
 
+
 until game.win
   puts "Digite um numero: "
   number = gets.to_i 
